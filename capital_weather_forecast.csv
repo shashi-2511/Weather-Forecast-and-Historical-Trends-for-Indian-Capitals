@@ -1,0 +1,421 @@
+State,Capital,Date,Temp_Max,Temp_Min,Rain_Sum,UV_Index,Precipitation_Probability
+Andhra Pradesh,Amaravati,2025-08-13,27.7,24.5,4.5,6.45,90
+Andhra Pradesh,Amaravati,2025-08-14,30.2,24.4,5.1,2.35,75
+Andhra Pradesh,Amaravati,2025-08-15,32.1,25.1,0.0,6.75,19
+Andhra Pradesh,Amaravati,2025-08-16,31.6,26.1,0.0,6.6,23
+Andhra Pradesh,Amaravati,2025-08-17,31.2,26.7,0.0,3.9,45
+Andhra Pradesh,Amaravati,2025-08-18,29.4,26.6,0.0,0.6,68
+Andhra Pradesh,Amaravati,2025-08-19,27.7,25.3,3.3,4.45,65
+Andhra Pradesh,Amaravati,2025-08-20,31.4,25.2,0.6,5.95,61
+Andhra Pradesh,Amaravati,2025-08-21,31.6,25.0,0.0,6.05,42
+Andhra Pradesh,Amaravati,2025-08-22,30.4,26.7,0.0,4.4,42
+Andhra Pradesh,Amaravati,2025-08-23,26.9,23.7,6.3,0.95,46
+Andhra Pradesh,Amaravati,2025-08-24,24.0,22.8,26.4,0.6,48
+Andhra Pradesh,Amaravati,2025-08-25,27.4,23.6,6.9,6.8,72
+Andhra Pradesh,Amaravati,2025-08-26,24.3,23.0,13.8,0.85,71
+Arunachal Pradesh,Itanagar,2025-08-13,25.9,23.3,1.9,1.45,100
+Arunachal Pradesh,Itanagar,2025-08-14,24.6,22.7,30.7,6.05,95
+Arunachal Pradesh,Itanagar,2025-08-15,28.0,22.4,0.0,8.05,78
+Arunachal Pradesh,Itanagar,2025-08-16,30.4,23.2,0.0,8.5,48
+Arunachal Pradesh,Itanagar,2025-08-17,31.6,24.3,0.0,5.3,88
+Arunachal Pradesh,Itanagar,2025-08-18,27.6,24.1,0.0,8.15,99
+Arunachal Pradesh,Itanagar,2025-08-19,25.3,22.9,16.8,7.35,98
+Arunachal Pradesh,Itanagar,2025-08-20,33.6,22.7,0.0,7.1,88
+Arunachal Pradesh,Itanagar,2025-08-21,33.9,23.4,0.0,7.4,90
+Arunachal Pradesh,Itanagar,2025-08-22,29.3,23.3,0.0,3.8,92
+Arunachal Pradesh,Itanagar,2025-08-23,30.5,23.2,0.0,5.3,94
+Arunachal Pradesh,Itanagar,2025-08-24,33.1,24.1,0.0,7.35,78
+Arunachal Pradesh,Itanagar,2025-08-25,31.2,23.2,0.0,4.25,72
+Arunachal Pradesh,Itanagar,2025-08-26,34.5,25.1,0.0,7.75,69
+Assam,Dispur,2025-08-13,28.3,26.6,12.8,1.85,98
+Assam,Dispur,2025-08-14,29.0,25.3,44.9,6.05,73
+Assam,Dispur,2025-08-15,33.2,26.6,0.0,8.15,38
+Assam,Dispur,2025-08-16,35.5,27.8,0.0,8.5,53
+Assam,Dispur,2025-08-17,35.9,28.5,0.0,2.6,52
+Assam,Dispur,2025-08-18,29.6,27.4,0.0,8.0,95
+Assam,Dispur,2025-08-19,32.1,27.6,0.0,5.55,96
+Assam,Dispur,2025-08-20,34.3,27.4,0.0,7.65,85
+Assam,Dispur,2025-08-21,34.5,26.5,0.0,7.2,90
+Assam,Dispur,2025-08-22,29.6,25.3,0.0,5.05,87
+Assam,Dispur,2025-08-23,30.1,24.9,0.3,3.8,91
+Assam,Dispur,2025-08-24,34.3,26.0,0.0,7.15,68
+Assam,Dispur,2025-08-25,32.2,25.6,0.0,7.15,71
+Assam,Dispur,2025-08-26,34.4,25.9,0.0,7.05,54
+Bihar,Patna,2025-08-13,28.9,27.1,9.8,8.1,98
+Bihar,Patna,2025-08-14,32.2,26.6,0.0,6.7,60
+Bihar,Patna,2025-08-15,33.2,26.5,0.0,6.5,20
+Bihar,Patna,2025-08-16,34.1,27.3,0.0,8.55,18
+Bihar,Patna,2025-08-17,34.6,27.8,0.0,7.1,39
+Bihar,Patna,2025-08-18,32.1,27.0,0.0,6.55,63
+Bihar,Patna,2025-08-19,32.8,26.5,1.5,7.35,58
+Bihar,Patna,2025-08-20,35.8,26.1,0.0,7.5,45
+Bihar,Patna,2025-08-21,38.7,29.3,0.0,8.1,35
+Bihar,Patna,2025-08-22,37.2,30.6,0.0,6.25,61
+Bihar,Patna,2025-08-23,37.2,32.0,0.0,6.45,74
+Bihar,Patna,2025-08-24,35.9,30.9,0.0,5.8,65
+Bihar,Patna,2025-08-25,36.9,30.1,0.0,6.6,64
+Bihar,Patna,2025-08-26,36.0,30.1,0.0,6.55,45
+Chhattisgarh,Raipur,2025-08-13,31.0,25.8,0.0,8.35,80
+Chhattisgarh,Raipur,2025-08-14,31.8,25.7,0.0,7.15,68
+Chhattisgarh,Raipur,2025-08-15,29.2,24.9,0.0,8.5,70
+Chhattisgarh,Raipur,2025-08-16,31.2,24.9,0.0,7.5,58
+Chhattisgarh,Raipur,2025-08-17,30.7,25.0,0.0,7.95,70
+Chhattisgarh,Raipur,2025-08-18,29.3,25.2,0.3,5.95,91
+Chhattisgarh,Raipur,2025-08-19,26.1,24.5,25.2,6.4,95
+Chhattisgarh,Raipur,2025-08-20,28.0,23.7,0.0,4.2,92
+Chhattisgarh,Raipur,2025-08-21,28.1,23.8,0.0,4.3,62
+Chhattisgarh,Raipur,2025-08-22,31.6,23.9,0.0,6.95,65
+Chhattisgarh,Raipur,2025-08-23,31.9,24.2,0.0,7.6,84
+Chhattisgarh,Raipur,2025-08-24,30.7,24.6,0.0,6.35,76
+Chhattisgarh,Raipur,2025-08-25,31.8,24.4,0.0,7.0,77
+Chhattisgarh,Raipur,2025-08-26,32.1,25.0,0.0,7.2,74
+Goa,Panaji,2025-08-12,19.8,10.2,0.0,9.5,98
+Goa,Panaji,2025-08-13,20.3,9.1,0.0,8.3,100
+Goa,Panaji,2025-08-14,20.1,10.6,0.0,9.3,53
+Goa,Panaji,2025-08-15,20.0,10.0,0.0,9.65,13
+Goa,Panaji,2025-08-16,18.5,9.1,0.0,9.05,58
+Goa,Panaji,2025-08-17,19.0,9.3,0.0,9.25,85
+Goa,Panaji,2025-08-18,19.6,9.9,0.0,9.1,78
+Goa,Panaji,2025-08-19,20.2,10.6,0.0,8.05,91
+Goa,Panaji,2025-08-20,19.8,10.5,0.0,9.0,100
+Goa,Panaji,2025-08-21,22.3,10.6,0.0,8.7,100
+Goa,Panaji,2025-08-22,19.8,11.1,0.0,8.7,100
+Goa,Panaji,2025-08-23,20.9,10.7,0.0,8.75,94
+Goa,Panaji,2025-08-24,19.7,10.7,0.2,8.05,87
+Goa,Panaji,2025-08-25,20.9,10.9,0.7,8.9,97
+Gujarat,Gandhinagar,2025-08-13,32.7,26.8,0.0,6.7,18
+Gujarat,Gandhinagar,2025-08-14,31.1,26.7,0.0,6.05,55
+Gujarat,Gandhinagar,2025-08-15,30.1,26.5,0.0,7.05,60
+Gujarat,Gandhinagar,2025-08-16,29.0,26.3,0.0,6.05,67
+Gujarat,Gandhinagar,2025-08-17,30.3,26.1,0.0,6.95,64
+Gujarat,Gandhinagar,2025-08-18,29.5,25.9,0.0,7.0,89
+Gujarat,Gandhinagar,2025-08-19,30.8,25.9,0.0,1.9,87
+Gujarat,Gandhinagar,2025-08-20,30.9,24.8,3.3,5.15,83
+Gujarat,Gandhinagar,2025-08-21,27.8,24.6,12.9,3.15,65
+Gujarat,Gandhinagar,2025-08-22,32.3,24.7,0.0,6.35,72
+Gujarat,Gandhinagar,2025-08-23,31.9,25.3,0.0,6.25,78
+Gujarat,Gandhinagar,2025-08-24,29.8,26.0,0.0,3.3,94
+Gujarat,Gandhinagar,2025-08-25,27.5,26.0,0.3,2.55,81
+Gujarat,Gandhinagar,2025-08-26,31.6,24.7,0.6,5.65,70
+Haryana,Chandigarh,2025-08-13,31.8,26.3,0.0,5.05,13
+Haryana,Chandigarh,2025-08-14,27.8,25.8,7.9,4.6,93
+Haryana,Chandigarh,2025-08-15,30.9,25.6,0.0,4.05,35
+Haryana,Chandigarh,2025-08-16,30.4,26.2,0.0,5.3,71
+Haryana,Chandigarh,2025-08-17,30.5,26.2,0.0,7.35,85
+Haryana,Chandigarh,2025-08-18,31.1,26.7,0.0,2.7,69
+Haryana,Chandigarh,2025-08-19,31.1,25.9,0.0,6.85,78
+Haryana,Chandigarh,2025-08-20,32.7,26.1,0.3,7.05,78
+Haryana,Chandigarh,2025-08-21,33.4,25.5,0.0,6.95,75
+Haryana,Chandigarh,2025-08-22,33.7,26.2,0.0,6.8,68
+Haryana,Chandigarh,2025-08-23,33.8,26.4,0.0,6.35,78
+Haryana,Chandigarh,2025-08-24,33.1,26.2,0.0,6.9,96
+Haryana,Chandigarh,2025-08-25,32.1,25.7,0.0,6.45,68
+Haryana,Chandigarh,2025-08-26,32.7,25.3,0.0,6.65,62
+Himachal Pradesh,Shimla,2025-08-13,22.8,18.7,0.0,5.6,78
+Himachal Pradesh,Shimla,2025-08-14,21.1,18.8,28.4,3.65,98
+Himachal Pradesh,Shimla,2025-08-15,21.8,18.3,1.5,0.75,68
+Himachal Pradesh,Shimla,2025-08-16,21.6,18.3,0.0,3.7,75
+Himachal Pradesh,Shimla,2025-08-17,21.1,18.6,0.0,7.45,100
+Himachal Pradesh,Shimla,2025-08-18,22.4,19.1,0.0,4.0,98
+Himachal Pradesh,Shimla,2025-08-19,21.2,18.4,0.0,2.25,98
+Himachal Pradesh,Shimla,2025-08-20,21.1,14.7,0.9,7.5,100
+Himachal Pradesh,Shimla,2025-08-21,21.0,14.5,0.0,6.55,100
+Himachal Pradesh,Shimla,2025-08-22,22.9,14.4,0.0,7.2,100
+Himachal Pradesh,Shimla,2025-08-23,23.2,15.2,0.0,5.8,94
+Himachal Pradesh,Shimla,2025-08-24,22.4,15.8,0.0,4.8,100
+Himachal Pradesh,Shimla,2025-08-25,20.7,15.9,0.0,7.2,100
+Himachal Pradesh,Shimla,2025-08-26,19.6,16.0,0.0,2.75,100
+Jharkhand,Ranchi,2025-08-13,27.9,23.9,0.0,8.35,83
+Jharkhand,Ranchi,2025-08-14,28.1,23.3,0.0,7.6,43
+Jharkhand,Ranchi,2025-08-15,28.9,23.0,0.0,8.55,28
+Jharkhand,Ranchi,2025-08-16,29.7,22.8,0.0,8.85,58
+Jharkhand,Ranchi,2025-08-17,29.6,22.9,0.0,9.1,51
+Jharkhand,Ranchi,2025-08-18,26.8,23.0,10.5,7.1,76
+Jharkhand,Ranchi,2025-08-19,25.3,22.6,0.0,4.1,74
+Jharkhand,Ranchi,2025-08-20,27.5,22.6,0.0,7.25,77
+Jharkhand,Ranchi,2025-08-21,29.4,22.8,0.0,7.45,94
+Jharkhand,Ranchi,2025-08-22,30.4,22.8,0.0,7.65,84
+Jharkhand,Ranchi,2025-08-23,28.6,23.8,0.0,7.05,90
+Jharkhand,Ranchi,2025-08-24,29.8,22.7,0.0,7.5,87
+Jharkhand,Ranchi,2025-08-25,28.5,22.7,0.0,7.2,80
+Jharkhand,Ranchi,2025-08-26,27.4,22.9,0.0,6.55,77
+Karnataka,Bengaluru,2025-08-13,23.8,19.9,0.1,4.55,73
+Karnataka,Bengaluru,2025-08-14,25.3,18.8,0.3,7.7,35
+Karnataka,Bengaluru,2025-08-15,26.3,19.4,0.0,6.55,48
+Karnataka,Bengaluru,2025-08-16,26.2,19.9,0.0,6.25,48
+Karnataka,Bengaluru,2025-08-17,25.6,20.2,0.0,6.15,58
+Karnataka,Bengaluru,2025-08-18,25.7,20.3,0.0,4.5,55
+Karnataka,Bengaluru,2025-08-19,25.4,19.7,0.0,5.3,38
+Karnataka,Bengaluru,2025-08-20,25.8,19.6,0.0,5.35,58
+Karnataka,Bengaluru,2025-08-21,27.2,18.9,0.0,7.95,62
+Karnataka,Bengaluru,2025-08-22,25.8,19.4,0.0,4.55,65
+Karnataka,Bengaluru,2025-08-23,25.4,19.2,0.0,5.5,49
+Karnataka,Bengaluru,2025-08-24,21.6,19.7,0.0,3.3,50
+Karnataka,Bengaluru,2025-08-25,27.1,20.0,0.0,7.4,56
+Karnataka,Bengaluru,2025-08-26,24.5,20.0,0.0,4.7,47
+Kerala,Thiruvananthapuram,2025-08-13,27.2,24.5,0.0,7.3,65
+Kerala,Thiruvananthapuram,2025-08-14,27.8,24.2,0.0,5.3,65
+Kerala,Thiruvananthapuram,2025-08-15,28.7,23.5,0.0,8.95,43
+Kerala,Thiruvananthapuram,2025-08-16,28.8,24.6,0.0,8.9,19
+Kerala,Thiruvananthapuram,2025-08-17,29.5,24.6,0.0,7.7,25
+Kerala,Thiruvananthapuram,2025-08-18,29.9,25.0,0.0,6.5,35
+Kerala,Thiruvananthapuram,2025-08-19,30.0,24.9,0.0,8.2,33
+Kerala,Thiruvananthapuram,2025-08-20,30.7,23.8,0.0,7.9,29
+Kerala,Thiruvananthapuram,2025-08-21,30.8,22.7,0.0,7.75,26
+Kerala,Thiruvananthapuram,2025-08-22,31.1,23.7,0.0,6.7,32
+Kerala,Thiruvananthapuram,2025-08-23,31.7,23.7,0.0,8.45,32
+Kerala,Thiruvananthapuram,2025-08-24,30.8,23.3,0.0,7.65,28
+Kerala,Thiruvananthapuram,2025-08-25,28.5,23.3,0.0,6.1,39
+Kerala,Thiruvananthapuram,2025-08-26,29.8,23.9,0.0,7.7,55
+Madhya Pradesh,Bhopal,2025-08-13,28.2,24.6,0.0,8.1,68
+Madhya Pradesh,Bhopal,2025-08-14,28.8,24.2,0.0,8.05,88
+Madhya Pradesh,Bhopal,2025-08-15,29.1,24.1,0.0,8.3,88
+Madhya Pradesh,Bhopal,2025-08-16,29.9,23.8,0.0,7.05,87
+Madhya Pradesh,Bhopal,2025-08-17,29.2,24.0,0.0,8.15,86
+Madhya Pradesh,Bhopal,2025-08-18,28.7,24.0,0.0,5.8,91
+Madhya Pradesh,Bhopal,2025-08-19,26.6,23.9,0.0,6.75,98
+Madhya Pradesh,Bhopal,2025-08-20,28.5,23.6,0.0,6.35,92
+Madhya Pradesh,Bhopal,2025-08-21,26.4,22.7,0.0,2.2,75
+Madhya Pradesh,Bhopal,2025-08-22,28.6,22.1,0.0,6.7,87
+Madhya Pradesh,Bhopal,2025-08-23,27.4,23.0,0.6,5.7,94
+Madhya Pradesh,Bhopal,2025-08-24,29.4,22.9,0.6,6.95,77
+Madhya Pradesh,Bhopal,2025-08-25,27.4,22.7,0.3,6.25,81
+Madhya Pradesh,Bhopal,2025-08-26,28.6,23.0,0.9,6.55,76
+Maharashtra,Mumbai,2025-08-13,27.9,27.2,0.0,6.45,100
+Maharashtra,Mumbai,2025-08-14,27.5,26.4,7.1,1.55,100
+Maharashtra,Mumbai,2025-08-15,27.6,26.3,15.9,5.65,100
+Maharashtra,Mumbai,2025-08-16,27.8,27.1,0.7,5.7,100
+Maharashtra,Mumbai,2025-08-17,27.8,27.5,0.0,7.7,100
+Maharashtra,Mumbai,2025-08-18,27.6,26.6,9.3,3.0,100
+Maharashtra,Mumbai,2025-08-19,27.5,26.8,28.8,0.3,100
+Maharashtra,Mumbai,2025-08-20,26.9,25.2,30.9,0.5,100
+Maharashtra,Mumbai,2025-08-21,27.8,25.8,0.6,4.2,100
+Maharashtra,Mumbai,2025-08-22,29.2,26.3,0.0,7.65,100
+Maharashtra,Mumbai,2025-08-23,28.3,26.4,0.0,6.1,100
+Maharashtra,Mumbai,2025-08-24,26.4,25.4,3.0,0.6,100
+Maharashtra,Mumbai,2025-08-25,26.0,25.5,4.8,0.45,100
+Maharashtra,Mumbai,2025-08-26,26.3,25.2,5.7,0.45,100
+Manipur,Imphal,2025-08-13,24.5,21.1,2.8,7.9,98
+Manipur,Imphal,2025-08-14,24.7,21.0,0.9,7.55,83
+Manipur,Imphal,2025-08-15,27.1,20.5,2.2,7.5,70
+Manipur,Imphal,2025-08-16,28.5,20.4,0.0,8.65,35
+Manipur,Imphal,2025-08-17,24.2,21.6,0.0,2.9,35
+Manipur,Imphal,2025-08-18,25.3,21.0,0.0,8.3,47
+Manipur,Imphal,2025-08-19,25.9,20.4,0.0,8.05,76
+Manipur,Imphal,2025-08-20,29.5,20.5,0.0,8.05,94
+Manipur,Imphal,2025-08-21,30.7,20.9,0.0,7.8,100
+Manipur,Imphal,2025-08-22,27.1,21.2,0.3,5.9,98
+Manipur,Imphal,2025-08-23,25.4,20.8,0.0,3.0,98
+Manipur,Imphal,2025-08-24,30.2,20.5,0.0,8.3,75
+Manipur,Imphal,2025-08-25,25.4,21.0,0.0,3.1,62
+Manipur,Imphal,2025-08-26,23.7,20.4,3.0,2.6,62
+Meghalaya,Shillong,2025-08-13,20.3,18.3,4.4,2.0,100
+Meghalaya,Shillong,2025-08-14,21.0,17.9,10.1,4.35,93
+Meghalaya,Shillong,2025-08-15,22.1,17.7,0.0,7.2,97
+Meghalaya,Shillong,2025-08-16,24.7,18.3,0.0,7.7,95
+Meghalaya,Shillong,2025-08-17,23.1,19.3,0.0,3.3,94
+Meghalaya,Shillong,2025-08-18,21.5,18.3,0.0,8.3,97
+Meghalaya,Shillong,2025-08-19,21.3,17.8,0.0,7.3,94
+Meghalaya,Shillong,2025-08-20,23.4,17.6,0.0,6.7,100
+Meghalaya,Shillong,2025-08-21,23.8,18.2,0.9,7.2,100
+Meghalaya,Shillong,2025-08-22,20.5,18.4,0.3,2.4,97
+Meghalaya,Shillong,2025-08-23,23.1,17.9,0.0,5.9,95
+Meghalaya,Shillong,2025-08-24,22.7,18.4,0.0,6.75,100
+Meghalaya,Shillong,2025-08-25,23.7,19.0,0.3,6.7,90
+Meghalaya,Shillong,2025-08-26,23.7,18.2,0.0,6.25,94
+Mizoram,Aizawl,2025-08-13,23.0,20.2,0.3,7.7,88
+Mizoram,Aizawl,2025-08-14,24.9,19.8,0.0,4.4,73
+Mizoram,Aizawl,2025-08-15,26.0,19.7,0.0,6.45,68
+Mizoram,Aizawl,2025-08-16,26.6,19.8,0.0,6.95,70
+Mizoram,Aizawl,2025-08-17,24.7,19.7,0.0,2.95,85
+Mizoram,Aizawl,2025-08-18,24.0,20.3,0.6,8.05,85
+Mizoram,Aizawl,2025-08-19,25.0,19.8,1.8,8.55,88
+Mizoram,Aizawl,2025-08-20,24.5,19.0,0.0,8.25,100
+Mizoram,Aizawl,2025-08-21,25.2,18.6,0.6,8.15,98
+Mizoram,Aizawl,2025-08-22,23.5,18.8,0.0,2.95,97
+Mizoram,Aizawl,2025-08-23,26.5,19.2,1.2,3.9,100
+Mizoram,Aizawl,2025-08-24,23.0,19.1,2.4,7.35,100
+Mizoram,Aizawl,2025-08-25,24.6,18.4,0.0,6.95,84
+Mizoram,Aizawl,2025-08-26,22.9,18.5,0.0,2.85,77
+Nagaland,Kohima,2025-08-13,21.4,19.1,4.8,2.05,100
+Nagaland,Kohima,2025-08-14,20.0,18.2,12.0,5.45,90
+Nagaland,Kohima,2025-08-15,21.9,17.8,0.0,6.45,75
+Nagaland,Kohima,2025-08-16,24.3,19.0,0.0,8.95,43
+Nagaland,Kohima,2025-08-17,24.5,20.5,0.0,2.3,68
+Nagaland,Kohima,2025-08-18,23.2,19.4,1.2,8.25,68
+Nagaland,Kohima,2025-08-19,21.8,18.4,0.0,8.25,59
+Nagaland,Kohima,2025-08-20,25.3,18.5,0.0,8.15,98
+Nagaland,Kohima,2025-08-21,25.7,18.2,0.9,8.05,100
+Nagaland,Kohima,2025-08-22,22.2,18.2,0.0,4.3,97
+Nagaland,Kohima,2025-08-23,22.6,18.4,0.0,6.2,100
+Nagaland,Kohima,2025-08-24,25.0,18.3,0.0,8.45,96
+Nagaland,Kohima,2025-08-25,23.2,18.2,0.0,5.8,96
+Nagaland,Kohima,2025-08-26,25.5,17.8,0.3,3.4,99
+Odisha,Bhubaneswar,2025-08-13,32.4,26.8,0.0,6.1,80
+Odisha,Bhubaneswar,2025-08-14,31.1,26.0,0.0,6.7,75
+Odisha,Bhubaneswar,2025-08-15,33.0,26.3,0.0,6.25,43
+Odisha,Bhubaneswar,2025-08-16,32.9,26.3,0.0,8.0,58
+Odisha,Bhubaneswar,2025-08-17,32.0,26.2,0.0,7.25,91
+Odisha,Bhubaneswar,2025-08-18,29.4,25.4,17.1,4.6,98
+Odisha,Bhubaneswar,2025-08-19,29.8,24.9,7.8,6.95,87
+Odisha,Bhubaneswar,2025-08-20,31.4,26.1,0.0,7.05,65
+Odisha,Bhubaneswar,2025-08-21,32.4,25.4,0.0,7.75,56
+Odisha,Bhubaneswar,2025-08-22,32.9,25.4,0.0,7.85,61
+Odisha,Bhubaneswar,2025-08-23,32.4,26.7,0.0,5.6,74
+Odisha,Bhubaneswar,2025-08-24,33.1,26.1,0.0,7.7,69
+Odisha,Bhubaneswar,2025-08-25,32.8,26.5,0.0,5.1,65
+Odisha,Bhubaneswar,2025-08-26,32.2,26.1,0.0,5.75,84
+Punjab,Chandigarh,2025-08-13,31.8,26.3,0.0,5.05,13
+Punjab,Chandigarh,2025-08-14,27.8,25.8,7.9,4.6,93
+Punjab,Chandigarh,2025-08-15,30.9,25.6,0.0,4.05,35
+Punjab,Chandigarh,2025-08-16,30.4,26.2,0.0,5.3,71
+Punjab,Chandigarh,2025-08-17,30.5,26.2,0.0,7.35,85
+Punjab,Chandigarh,2025-08-18,31.1,26.7,0.0,2.7,69
+Punjab,Chandigarh,2025-08-19,31.1,25.9,0.0,6.85,78
+Punjab,Chandigarh,2025-08-20,32.7,26.1,0.3,7.05,78
+Punjab,Chandigarh,2025-08-21,33.4,25.5,0.0,6.95,75
+Punjab,Chandigarh,2025-08-22,33.7,26.2,0.0,6.8,68
+Punjab,Chandigarh,2025-08-23,33.8,26.4,0.0,6.35,78
+Punjab,Chandigarh,2025-08-24,33.1,26.2,0.0,6.9,96
+Punjab,Chandigarh,2025-08-25,32.1,25.7,0.0,6.45,68
+Punjab,Chandigarh,2025-08-26,32.7,25.3,0.0,6.65,62
+Rajasthan,Jaipur,2025-08-13,33.3,26.2,0.0,7.05,10
+Rajasthan,Jaipur,2025-08-14,27.8,25.8,0.5,5.85,48
+Rajasthan,Jaipur,2025-08-15,31.8,25.2,0.0,5.2,38
+Rajasthan,Jaipur,2025-08-16,32.0,25.9,0.0,7.9,43
+Rajasthan,Jaipur,2025-08-17,32.0,25.7,0.0,7.8,65
+Rajasthan,Jaipur,2025-08-18,30.7,25.7,0.0,3.45,68
+Rajasthan,Jaipur,2025-08-19,30.5,25.0,0.0,4.6,78
+Rajasthan,Jaipur,2025-08-20,32.9,25.8,0.0,6.6,68
+Rajasthan,Jaipur,2025-08-21,32.4,26.5,0.0,6.6,68
+Rajasthan,Jaipur,2025-08-22,32.1,26.4,0.0,5.6,71
+Rajasthan,Jaipur,2025-08-23,30.2,26.7,0.0,2.55,84
+Rajasthan,Jaipur,2025-08-24,33.5,26.0,0.0,5.6,81
+Rajasthan,Jaipur,2025-08-25,32.7,26.5,0.0,5.2,72
+Rajasthan,Jaipur,2025-08-26,33.6,27.6,0.0,5.7,71
+Sikkim,Gangtok,2025-08-13,18.2,16.6,23.1,0.95,98
+Sikkim,Gangtok,2025-08-14,18.1,15.8,6.9,5.4,78
+Sikkim,Gangtok,2025-08-15,18.5,15.9,2.8,7.85,85
+Sikkim,Gangtok,2025-08-16,20.5,16.5,0.0,7.8,100
+Sikkim,Gangtok,2025-08-17,21.1,16.9,0.9,7.9,95
+Sikkim,Gangtok,2025-08-18,18.3,15.9,27.9,3.1,93
+Sikkim,Gangtok,2025-08-19,18.2,15.6,12.6,7.6,70
+Sikkim,Gangtok,2025-08-20,24.2,15.3,0.0,6.9,98
+Sikkim,Gangtok,2025-08-21,24.7,16.1,0.0,7.5,94
+Sikkim,Gangtok,2025-08-22,25.0,16.4,0.0,7.1,100
+Sikkim,Gangtok,2025-08-23,23.5,17.0,0.6,7.3,98
+Sikkim,Gangtok,2025-08-24,24.4,16.9,1.2,7.75,100
+Sikkim,Gangtok,2025-08-25,23.9,17.7,0.0,6.85,97
+Sikkim,Gangtok,2025-08-26,24.2,18.1,0.0,7.45,100
+Tamil Nadu,Chennai,2025-08-13,30.5,25.6,0.0,3.0,40
+Tamil Nadu,Chennai,2025-08-14,31.0,25.0,0.0,7.9,18
+Tamil Nadu,Chennai,2025-08-15,32.8,25.6,0.0,8.55,48
+Tamil Nadu,Chennai,2025-08-16,32.2,26.1,0.0,8.8,47
+Tamil Nadu,Chennai,2025-08-17,32.5,26.4,0.0,7.2,35
+Tamil Nadu,Chennai,2025-08-18,31.1,26.5,0.0,4.65,45
+Tamil Nadu,Chennai,2025-08-19,32.2,26.0,0.0,6.4,25
+Tamil Nadu,Chennai,2025-08-20,35.6,26.1,0.0,6.9,58
+Tamil Nadu,Chennai,2025-08-21,37.7,27.1,0.3,7.9,58
+Tamil Nadu,Chennai,2025-08-22,37.3,27.6,0.0,7.85,65
+Tamil Nadu,Chennai,2025-08-23,32.6,27.0,0.0,3.9,61
+Tamil Nadu,Chennai,2025-08-24,30.8,26.5,0.0,4.75,46
+Tamil Nadu,Chennai,2025-08-25,35.9,27.4,0.0,5.8,45
+Tamil Nadu,Chennai,2025-08-26,34.6,28.3,0.0,5.5,46
+Telangana,Hyderabad,2025-08-13,26.2,23.0,2.6,7.05,85
+Telangana,Hyderabad,2025-08-14,23.4,21.9,21.2,1.85,90
+Telangana,Hyderabad,2025-08-15,26.7,22.1,0.0,6.45,67
+Telangana,Hyderabad,2025-08-16,27.2,22.5,0.0,2.8,46
+Telangana,Hyderabad,2025-08-17,26.6,22.9,0.0,7.85,73
+Telangana,Hyderabad,2025-08-18,24.0,22.7,17.1,0.9,84
+Telangana,Hyderabad,2025-08-19,23.4,22.4,18.0,1.4,88
+Telangana,Hyderabad,2025-08-20,26.0,21.7,3.6,6.7,82
+Telangana,Hyderabad,2025-08-21,28.2,22.0,0.0,7.6,65
+Telangana,Hyderabad,2025-08-22,24.3,22.5,0.3,2.7,62
+Telangana,Hyderabad,2025-08-23,23.5,21.8,4.5,1.9,62
+Telangana,Hyderabad,2025-08-24,25.1,21.8,2.7,2.8,69
+Telangana,Hyderabad,2025-08-25,22.3,21.4,23.4,0.55,83
+Telangana,Hyderabad,2025-08-26,21.7,20.9,10.2,0.6,78
+Tripura,Agartala,2025-08-13,29.9,26.8,0.0,3.8,88
+Tripura,Agartala,2025-08-14,32.3,26.0,0.0,4.75,55
+Tripura,Agartala,2025-08-15,32.7,26.2,0.0,8.7,53
+Tripura,Agartala,2025-08-16,33.2,26.4,0.0,8.55,53
+Tripura,Agartala,2025-08-17,31.7,26.8,0.6,8.0,85
+Tripura,Agartala,2025-08-18,30.6,25.8,0.3,8.2,85
+Tripura,Agartala,2025-08-19,31.9,25.7,0.0,7.75,49
+Tripura,Agartala,2025-08-20,33.1,25.9,0.0,8.25,71
+Tripura,Agartala,2025-08-21,33.0,25.2,0.0,7.8,71
+Tripura,Agartala,2025-08-22,31.3,25.4,0.0,5.2,89
+Tripura,Agartala,2025-08-23,32.1,25.3,0.0,7.25,77
+Tripura,Agartala,2025-08-24,28.5,25.2,0.0,3.1,68
+Tripura,Agartala,2025-08-25,34.2,24.9,0.0,7.75,61
+Tripura,Agartala,2025-08-26,28.2,24.6,0.0,3.6,66
+Uttar Pradesh,Lucknow,2025-08-13,30.3,27.0,0.2,1.7,83
+Uttar Pradesh,Lucknow,2025-08-14,31.7,26.2,0.0,6.45,88
+Uttar Pradesh,Lucknow,2025-08-15,33.9,26.5,0.0,7.6,23
+Uttar Pradesh,Lucknow,2025-08-16,34.2,27.0,0.0,7.85,33
+Uttar Pradesh,Lucknow,2025-08-17,34.6,27.2,0.0,7.6,46
+Uttar Pradesh,Lucknow,2025-08-18,33.0,27.2,0.0,4.9,55
+Uttar Pradesh,Lucknow,2025-08-19,33.4,26.9,0.0,7.25,53
+Uttar Pradesh,Lucknow,2025-08-20,33.3,26.6,0.0,5.95,39
+Uttar Pradesh,Lucknow,2025-08-21,36.1,27.8,0.0,7.35,48
+Uttar Pradesh,Lucknow,2025-08-22,33.8,28.1,0.0,4.75,55
+Uttar Pradesh,Lucknow,2025-08-23,32.2,27.4,0.0,4.0,70
+Uttar Pradesh,Lucknow,2025-08-24,32.2,27.3,0.0,4.0,81
+Uttar Pradesh,Lucknow,2025-08-25,36.7,27.8,0.0,7.1,68
+Uttar Pradesh,Lucknow,2025-08-26,36.9,29.0,0.0,7.25,65
+Uttarakhand,Dehradun,2025-08-13,30.6,24.5,0.0,4.85,63
+Uttarakhand,Dehradun,2025-08-14,26.1,24.5,28.9,6.0,100
+Uttarakhand,Dehradun,2025-08-15,28.6,24.4,0.0,0.95,34
+Uttarakhand,Dehradun,2025-08-16,29.1,24.6,0.0,5.05,67
+Uttarakhand,Dehradun,2025-08-17,30.7,24.4,0.0,7.3,78
+Uttarakhand,Dehradun,2025-08-18,30.6,24.5,0.0,0.45,53
+Uttarakhand,Dehradun,2025-08-19,30.8,24.5,0.0,4.45,80
+Uttarakhand,Dehradun,2025-08-20,30.5,23.9,0.0,4.8,77
+Uttarakhand,Dehradun,2025-08-21,29.7,22.5,0.0,3.6,66
+Uttarakhand,Dehradun,2025-08-22,30.5,23.6,0.0,6.7,84
+Uttarakhand,Dehradun,2025-08-23,28.8,23.9,0.0,6.65,97
+Uttarakhand,Dehradun,2025-08-24,30.0,23.9,0.0,6.85,100
+Uttarakhand,Dehradun,2025-08-25,29.0,23.9,0.0,5.55,94
+Uttarakhand,Dehradun,2025-08-26,31.6,23.7,0.0,5.45,87
+West Bengal,Kolkata,2025-08-13,31.7,27.7,0.0,7.9,58
+West Bengal,Kolkata,2025-08-14,32.5,26.8,0.0,6.5,85
+West Bengal,Kolkata,2025-08-15,32.1,26.5,0.0,8.45,78
+West Bengal,Kolkata,2025-08-16,32.7,26.5,0.0,8.75,45
+West Bengal,Kolkata,2025-08-17,32.7,26.5,0.0,8.6,81
+West Bengal,Kolkata,2025-08-18,30.6,26.4,0.0,7.0,95
+West Bengal,Kolkata,2025-08-19,30.0,26.1,0.0,7.4,93
+West Bengal,Kolkata,2025-08-20,32.2,26.2,0.0,7.1,66
+West Bengal,Kolkata,2025-08-21,33.9,26.8,0.0,6.9,59
+West Bengal,Kolkata,2025-08-22,34.7,26.8,0.0,7.6,58
+West Bengal,Kolkata,2025-08-23,33.7,27.6,0.0,6.35,75
+West Bengal,Kolkata,2025-08-24,33.6,27.4,0.0,7.35,79
+West Bengal,Kolkata,2025-08-25,34.1,26.8,0.0,7.35,70
+West Bengal,Kolkata,2025-08-26,31.8,26.7,0.0,6.55,77
+Jammu and Kashmir,Srinagar,2025-08-13,29.9,20.4,0.0,8.7,38
+Jammu and Kashmir,Srinagar,2025-08-14,22.7,20.4,4.1,8.75,98
+Jammu and Kashmir,Srinagar,2025-08-15,22.2,19.0,0.0,5.5,74
+Jammu and Kashmir,Srinagar,2025-08-16,28.8,17.9,0.0,8.7,13
+Jammu and Kashmir,Srinagar,2025-08-17,29.7,19.7,0.0,7.65,15
+Jammu and Kashmir,Srinagar,2025-08-18,24.0,18.9,0.0,8.25,65
+Jammu and Kashmir,Srinagar,2025-08-19,24.5,17.5,0.0,6.85,58
+Jammu and Kashmir,Srinagar,2025-08-20,26.7,16.1,0.0,7.35,65
+Jammu and Kashmir,Srinagar,2025-08-21,28.6,15.3,0.0,8.3,19
+Jammu and Kashmir,Srinagar,2025-08-22,29.3,16.9,0.0,8.25,39
+Jammu and Kashmir,Srinagar,2025-08-23,30.1,20.8,0.0,8.25,99
+Jammu and Kashmir,Srinagar,2025-08-24,31.4,21.4,0.0,8.25,100
+Jammu and Kashmir,Srinagar,2025-08-25,31.5,21.1,0.0,8.2,100
+Jammu and Kashmir,Srinagar,2025-08-26,24.7,18.5,0.0,4.65,99
+Ladakh,Leh,2025-08-13,24.9,19.1,0.0,4.25,10
+Ladakh,Leh,2025-08-14,22.2,18.3,0.0,6.1,16
+Ladakh,Leh,2025-08-15,27.2,17.9,0.0,6.35,3
+Ladakh,Leh,2025-08-16,26.2,17.9,0.0,6.3,0
+Ladakh,Leh,2025-08-17,25.9,14.6,0.0,6.3,3
+Ladakh,Leh,2025-08-18,22.5,18.0,0.0,5.95,0
+Ladakh,Leh,2025-08-19,23.2,20.8,0.0,5.4,2
+Ladakh,Leh,2025-08-20,32.6,16.5,0.0,5.8,13
+Ladakh,Leh,2025-08-21,23.8,16.3,0.0,5.2,23
+Ladakh,Leh,2025-08-22,20.9,14.8,0.3,4.1,19
+Ladakh,Leh,2025-08-23,19.9,15.0,0.3,5.45,29
+Ladakh,Leh,2025-08-24,23.6,14.0,0.0,5.7,26
+Ladakh,Leh,2025-08-25,24.4,14.3,0.0,5.1,17
+Ladakh,Leh,2025-08-26,20.4,16.8,0.0,4.35,13
